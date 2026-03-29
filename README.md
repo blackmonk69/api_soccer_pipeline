@@ -148,4 +148,4 @@ Each row represents a team in the league with fields such as:
 
 ## 👤 Author
 
-**Ariel Chocobar**
+**Ariel Chocobar**, thanks to Stephen DWonline for the tutorial
