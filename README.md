@@ -6,6 +6,10 @@ This project implements a **data pipeline (ETL)** using Python to extract footba
 
 The notebook focuses on a **single season of league standings (Premier League 2024)** and demonstrates how to convert raw JSON data into a clean analytical dataset.
 
+![alt text](<argentinian league 2024.png>)
+---
+
+![alt text](<sql server loaded table.png>)
 ---
 
 ## ⚙️ What the Notebook Does
